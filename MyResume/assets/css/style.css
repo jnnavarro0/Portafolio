@@ -1206,3 +1206,8 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+
+.img-circle {
+  border-radius: 50%;
+  overflow: hidden;
+}
